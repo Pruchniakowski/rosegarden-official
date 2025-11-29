@@ -11745,12 +11745,12 @@ Błąd: %2</translation>
     <message>
         <location line="+7"/>
         <source>Failed to convert or resample audio file on import</source>
-        <translation>Nie udało się przekonwertować plik dźwiękowego do importu</translation>
+        <translation>Nie udało się zmienić próbkowania pliku dźwiękowego podczas importu</translation>
     </message>
     <message>
         <location line="+146"/>
         <source>Generating audio previews...</source>
-        <translation>Generowanie podglądu dźwięku...</translation>
+        <translation>Generowanie podglądów dźwięku...</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -11814,7 +11814,7 @@ Błąd: %2</translation>
     <message>
         <location line="+26"/>
         <source>&lt;qt&gt;&lt;p&gt;&lt;img src=&quot;:pixmaps/tooltip/warning.png&quot;&gt;&lt;/img&gt; &lt;b&gt;Audio files marked with an asterisk (*) are encoded at a sample rate different from that of the JACK audio server.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Rosegarden will play them at the correct speed, but they will sound terrible.  Please consider resampling these files externally, or adjusting the sample rate of the JACK server.&lt;/p&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;&lt;p&gt;&lt;img src=&quot;:pixmaps/tooltip/warning.png&quot;&gt;&lt;/img&gt; &lt;b&gt;Pliki dźwiękowe oznaczone gwiazdką (*) są kodowane przy innej częstotliwości próbkowania niż ta z serwera JACK Audio.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Rosegarden będzie odtwarzać je z prawidłową prędkością, ale będą one brzmieć okropnie. Weź pod uwagę resampling tego pliku na zewnątrz lub wyregulowanie częstotliwości próbkowania serwera JACK.&lt;/p&gt;&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;&lt;p&gt;&lt;img src=&quot;:pixmaps/tooltip/warning.png&quot;&gt;&lt;/img&gt; &lt;b&gt;Pliki dźwiękowe oznaczone gwiazdką (*) są kodowane przy innej częstotliwości próbkowania niż ta z serwera JACK Audio.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Rosegarden będzie odtwarzać je z prawidłową prędkością, ale będą one brzmieć okropnie. Musisz rozważyć zmianę próbkowania tego pliku na zewnątrz lub wyregulowanie częstotliwości próbkowania serwera JACK.&lt;/p&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -12005,7 +12005,7 @@ Zaznacz te, które mają być na zawsze usunięte z dysku twardego.
     <message>
         <location line="+156"/>
         <source>importing an audio file that needs to be converted or resampled</source>
-        <translation>importowane pliki dźwiękowe, które muszą być przekonwertowane lub resamplowane</translation>
+        <translation>importowanie pliku dźwiękowego, który musi być przekonwertowany lub mieć zmienione próbkowanie</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -22680,7 +22680,7 @@ Wybierz te, które chcesz na zawsze usunąć z dysku twardego.
     </message>
     <message>
         <source>Generating audio previews...</source>
-        <translation type="obsolete">Generowanie podglądu dźwięku...</translation>
+        <translation type="obsolete">Generowanie podglądów dźwięku...</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -22800,7 +22800,7 @@ możesz nacisnąć Ignoruj, aby otworzyć plik.
     <message>
         <location line="+11"/>
         <source>&lt;h3&gt;Inconsistent audio sample rates&lt;/h3&gt;&lt;p&gt;This composition contains audio files at more than one sample rate.&lt;/p&gt;&lt;p&gt;Rosegarden will play them at the correct speed, but any audio files that were recorded or imported at rates different from the current JACK server sample rate (%1 Hz) will probably sound awful.&lt;/p&gt;&lt;p&gt;Please see the audio file manager dialog for more details, and consider resampling any files that are at the wrong rate.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Nieprawidłowa częstotliwość próbkowania dźwięku&lt;/h3&gt;&lt;p&gt;Ten utwór zawiera pliki dźwiękowe w więcej niż jednej częstotliwości próbkowania.&lt;/p&gt;&lt;p&gt;Rosegarden będzie odtwarzać ten utwór z prawidłową prędkością, ale wszystkie pliki dźwiękowe, które zostały nagrane lub zaimportowane w innej częstotliwości próbkowania z bieżącego serwera JACK o częstotliwości próbkowania (%1 Hz) będą brzmiały okropnie.&lt;/p&gt;&lt;p&gt;Zobacz okno menedżera plików dźwiękowych, aby uzyskać więcej szczegółów i rozważyć resampling plików, które są w nieprawidłowym próbkowaniu.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Nieprawidłowa częstotliwość próbkowania dźwięku&lt;/h3&gt;&lt;p&gt;Ten utwór zawiera pliki dźwiękowe w więcej niż jednej częstotliwości próbkowania.&lt;/p&gt;&lt;p&gt;Rosegarden będzie odtwarzać ten utwór z prawidłową prędkością, ale wszystkie pliki dźwiękowe, które zostały nagrane lub zaimportowane w innej częstotliwości próbkowania z bieżącego serwera JACK o częstotliwości próbkowania (%1 Hz) będą brzmiały okropnie.&lt;/p&gt;&lt;p&gt;Zobacz okno menedżera plików dźwiękowych, aby uzyskać więcej szczegółów i rozważyć zmianę próbkowania plików, które są w nieprawidłowym próbkowaniu.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Inconsistent sample rates</source>
@@ -22898,7 +22898,7 @@ Zobacz Edytuj -&gt; Właściwości -&gt; Dźwięk.</translation>
     <message>
         <location line="+19"/>
         <source>importing an audio file that needs to be converted or resampled</source>
-        <translation>importowane pliki dźwiękowe, które muszą być przekonwertowane lub resamplowane</translation>
+        <translation>importowanie pliku dźwiękowego, który musi być przekonwertowany lub mieć zmienione próbkowanie</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -23369,7 +23369,7 @@ Chcesz go otworzyć?</translation>
     <message>
         <location line="+11"/>
         <source>Toggle the zoom toolbar...</source>
-        <translation>Przełącz pasek narzędzi powiększenia...</translation>
+        <translation>Przełącz pasek narzędzi powiększania...</translation>
     </message>
     <message>
         <location line="+11"/>
