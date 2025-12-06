@@ -24912,12 +24912,12 @@ Zamknięcie innych programów może spowodować wzrost wydajności Rosegarden.</
     <message>
         <location line="+18"/>
         <source>Failed to read audio data from disk in time to service the audio subsystem.</source>
-        <translation>Nie można odczytać danych dźwiękowych z dysku w czasie obsługi podsystemu dźwięku.</translation>
+        <translation>Nie udało się odczytać danych dźwiękowych z dysku w czasie umożliwiającym obsługę podsystemu dźwięku.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Failed to write audio data to disk fast enough to service the audio subsystem.</source>
-        <translation>Nie udało się zapisać danych dźwiękowych na dysk wystarczająco szybko do obsługi podsystemu dźwięku.</translation>
+        <translation>Nie udało się zapisać danych dźwiękowych na dysku wystarczająco szybko, aby obsłużyć podsystem dźwięku.</translation>
     </message>
     <message>
         <location line="+86"/>
