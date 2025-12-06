@@ -26573,12 +26573,12 @@ Zamknięcie innych programów może spowodować wzrost wydajności Rosegarden.</
     <message>
         <location line="+112"/>
         <source>Display as common time</source>
-        <translation>Wyświetl skrót &quot;C&quot; zamiast 4/4</translation>
+        <translation>Wyświetl jako &quot;C&quot; zamiast 4/4</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Display as cut common time</source>
-        <translation>Wyświetl metrum jako alla breve</translation>
+        <translation>Wyświetl jako alla breve</translation>
     </message>
     <message>
         <location line="+46"/>
