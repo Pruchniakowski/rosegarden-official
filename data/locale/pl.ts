@@ -24902,7 +24902,7 @@ Zamknięcie innych programów może spowodować wzrost wydajności Rosegarden.</
     <message>
         <location line="-118"/>
         <source>A serious error has occurred in the ALSA MIDI subsystem.  It may not be possible to continue sequencing.  Please check console output for more information.</source>
-        <translation>Poważny błąd pojawił się podsystemie ALSA/MIDI. Używanie sekwencera może być niemożliwe. Sprawdź komunikaty programu w konsoli, aby uzyskać więcej informacji.</translation>
+        <translation>Wystąpił poważny błąd w podsystemie ALSA MIDI. Używanie sekwencera może być niemożliwe. Sprawdź komunikaty programu w konsoli, aby uzyskać więcej informacji.</translation>
     </message>
     <message>
         <location line="+26"/>
