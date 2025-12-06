@@ -24988,7 +24988,7 @@ Zamknięcie innych programów może spowodować wzrost wydajności Rosegarden.</
     </message>
     <message>
         <source>&lt;p&gt;The MIDI subsystem has failed to initialize.&lt;/p&gt;&lt;p&gt;You may continue without the sequencer, but we suggest closing Rosegarden, running &quot;modprobe snd-seq-midi&quot; as root, and starting Rosegarden again.  If you wish to run with no sequencer by design, then use &quot;rosegarden --nosequencer&quot; to avoid seeing this error in the future.&lt;/p&gt;</source>
-        <translation type="obsolete">&lt;p&gt;Nie udało się zainicjować podsystemu MIDI.&lt;/p&gt;&lt;p&gt;Możesz kontynuować bez sekwencera, ale proponujemy zamknięcie Rosegarden, uruchamianie &quot;modprobe snd-seq-midi&quot; jako root i ponowne uruchomienie programu. Jeśli chcesz umyślnie uruchomić bez sekwencera, użyj &quot;rosegarden --nosequencer&quot;, aby uniknąć tego błędu w przyszłości.&lt;/p&gt;</translation>
+        <translation type="obsolete">&lt;p&gt;Nie udało się zainicjować podsystemu MIDI.&lt;/p&gt;&lt;p&gt;Możesz kontynuować bez sekwencera, ale proponujemy zamknięcie Rosegarden, uruchomienie &quot;modprobe snd-seq-midi&quot; jako root i ponowne uruchomienie programu. Jeśli chcesz umyślnie uruchomić bez sekwencera, użyj &quot;rosegarden --nosequencer&quot;, aby uniknąć tego błędu w przyszłości.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
