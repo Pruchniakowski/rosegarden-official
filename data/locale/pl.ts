@@ -27854,7 +27854,7 @@ Transponuj o półtony...</translation>
     <message>
         <location line="+1"/>
         <source>End at same time as note</source>
-        <translation>Skończ w tym samym czasie co nuta</translation>
+        <translation>Zakończ w tym samym czasie co nuta</translation>
     </message>
     <message>
         <location line="+1"/>
